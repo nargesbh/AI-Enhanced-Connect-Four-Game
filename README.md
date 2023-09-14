@@ -1,5 +1,7 @@
 # Connect Four Game with AI Opponent
 
+![logo](connect-four.png)
+
 Welcome to the Connect Four game with an AI opponent project! This interactive game allows you to play Connect Four against a challenging AI player powered by the Minimax algorithm with alpha-beta pruning. Additionally, this project includes a neural network-based AI opponent in the 'neuralnetworks.py' module for an alternative gameplay experience.
 
 ## Table of Contents
